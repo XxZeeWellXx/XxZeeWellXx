@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @XxZeeWellXx
 - 👀 I’m interested in Phython Programming 
 - 🌱 I’m currently learning Phython Programming
-- 💞️ I’m looking to collaborate on Seniors in Phyton or any programming and willing to learn
+- 💞️ I’m looking to collaborate on Seniors in Phyton or any programming language and willing to learn
 - 📫 How to reach me just message me on email jpadecio14@gmail.com
 
 <!---
